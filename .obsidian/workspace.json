@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "38424ba2b0aa21c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e34d8a414334d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37aa158653d55aa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "receita/odin-recipes/img/lasagna.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d864e2c7c51b11e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e0577d96478d5c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1053225c48ea86c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca72e8067b089c2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91623c84a41b3e4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a4ef99af1790f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f493093f5f2fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03032040b3676c8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "receita/odin-recipes/img/lasagna.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4422f1e3fb4bbce3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "receita/odin-recipes/img/lasagna.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c196a22bc5f5096",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82a9b143651ef156",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "receita/odin-recipes/img/lasagna.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1053225c48ea86c6",
+  "lastOpenFiles": [
+    "README.md",
+    "2023-10-30.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "receita/odin-recipes/img/moussaka.jpg",
+    "receita/odin-recipes/img/lasagna.jpg",
+    "receita/odin-recipes/img/brigadeiro.jpg"
+  ]
+}
